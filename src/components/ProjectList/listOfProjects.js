@@ -1004,13 +1004,7 @@ const projectList = [
       'Chat app in end-to-end enctypted environment without registration',
     tags: ['React', 'Chat', 'Javascript', 'Beginner', 'NodeJS'],
   },
-  {
-    name: 'CodeTrophs',
-    imageSrc: 'https://avatars.githubusercontent.com/u/62751673?s=200&v=4',
-    projectLink: 'https://github.com/CodeTrophs',
-    description: 'Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.',
-    tags: ['React', 'Chat', 'Javascript', 'Beginner', 'NodeJS', 'NextJS', 'Python', 'ML/AI', 'OpenSource'],
-  },
+
   {
     name: 'Zulip',
     imageSrc: 'https://avatars0.githubusercontent.com/u/4921959?s=200&v=4',
@@ -1026,15 +1020,7 @@ const projectList = [
       'Modern and fully web based queue management solution for crowded businesses.',
     tags: ['OpenSource', 'React', 'Javascript', 'Beginner', 'Productivity'],
   },
-  {
-    name: 'Rocky Linux',
-    imageSrc:
-      'https://raw.githubusercontent.com/rocky-linux/rocky-logos/main/icons/hicolor/256x256/apps/system-logo-icon.png',
-    projectLink: 'https://github.com/rocky-linux/rocky#contributing',
-    description:
-      'Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux, now that CentOS has shifted direction.',
-    tags: ['OpenSource', 'Shell', 'Python', 'HTML', 'Ansible', 'Linux'],
-  },
+  
   {
     name: 'Phpmyadmin',
     imageSrc:
